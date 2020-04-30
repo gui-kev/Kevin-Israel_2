@@ -23,3 +23,6 @@
 
 	8- Création des accesseurs et mutateurs pour chacune des classes. 
 	Comme les accesseurs et mutateus de la classe mère sont définis en public, il n'est plus nécessaire de les reécrire dans les classes filles. 
+
+### Exercice 2
+	1- Création de la classe Execution
