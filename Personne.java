@@ -1,6 +1,6 @@
 public class Personne{
-	protected String nom;
-	protected String prenom;
+	private String nom;
+	public String prenom;
 	protected int age;
 
 	public Personne(){
