@@ -37,4 +37,15 @@
 	2- Redéfinir la méthode ouMeTrouver() afin que le texte affiché dépende du l’objet utilisé
 		Code : https://drive.google.com/open?id=1zZOnfoQ9bFu7rFqSyOT4jaX82w8uYuyd
 		Résultat : https://drive.google.com/open?id=1cV-DFhoCJZ_wfeM46lQ9SNZQdcXhaiWa
-	3- 
+	4- Création d'un tableau unique dans lequel seront stockés tous les objets créés à l’exercice 2.
+	5- Utilisation de la méthode ouMeTrouver() avec les éléments du tableau	
+		Code : https://drive.google.com/open?id=19PbqQyjSCGtA1VqA2B_OJrhG35fTI1vF
+		Résultat : https://drive.google.com/open?id=1yDNl8IQs2K8VPq8iAZwsgdq3sdXqVDXN
+		On constate que le teste affiche est le même que celui de la question 3. 
+	6- Afficher le contenu du tableau grâce à des méthodes toString à définir dans les différentes classes
+		* Méthodes toString() : code --> https://drive.google.com/open?id=1Kik0EPieX0stNm57nH7Y0u9_xOrqoR9V
+			Résultat : https://drive.google.com/file/d/1FcpiQF2dct4zyu_iadgSFtBKxxLImvkj/view?usp=sharing
+	7- Affecter des noms, prénoms, ages, promotions aux étudiants “anonymes” précédemment créés et afficher les.
+		Code : https://drive.google.com/open?id=11efLDcvqrVH-hZAPPsOddgt9Owqf7BEL
+		Résultat : https://drive.google.com/open?id=1z60QQD4K92VVNp6XNUy-pZvq1XIEGGho
+		Remarque : On se rend compte que les éléments du tableau correspondant aux étudiants anonymes ont aussi été modifié. On peut conclure  que les éléments affectés au tableau sont passés par référence.

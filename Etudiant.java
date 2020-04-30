@@ -44,7 +44,13 @@ public class Etudiant extends Personne {
 
 	public void ouMeTrouver(){
 		System.out.println("  Je suis en cours tous les jours, sauf les jeudis après-midis"
-						+" (je fais du sport, mais c’est comme un cours car j’aime le sport \n");
+				+" (je fais du sport, mais c’est comme un cours car j’aime le sport \n");
+	}
+	
+	public String toString(){
+		return(" ✅ Etudiant \n"+super.toString() 
+				+"\n \t Promotion : " + promotion 
+				+"\n \t Nombre d'absences : "+ nbAbsences+ "\n");
 	}
 	
 }

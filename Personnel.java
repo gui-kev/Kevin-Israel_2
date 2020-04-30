@@ -25,5 +25,9 @@ public class Personnel extends Personne {
 	public void setService(String service){
 		this.service = service;
 	}
+
+	public String toString(){
+		return(super.toString() +"\n \t Service : " + service);
+	}
 	
 }

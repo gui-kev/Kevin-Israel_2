@@ -17,4 +17,8 @@ public class Administratif extends Personnel {
 	public void ouMeTrouver(){
 		System.out.println("  Le plus facile c’est de passer à mon bureau. \n");
 	}
+
+	public String toString(){
+		return(" ✅ Administration \n"+super.toString() +"\n \t Fonction : " + fonction + "\n");
+	}
 }

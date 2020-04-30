@@ -27,4 +27,10 @@ public class Enseignant extends Personnel {
 	public void ouMeTrouver(){
 		System.out.println("  Ce n’est pas la peine de me chercher, je saurai vous trouver !");
 	}
+
+	public String toString(){
+		return(" ✅ Enseignant \n"+super.toString() 
+			+"\n \t Matiere Principale : " + matierePrincipale
+			+"\n \t Matiere Secondaire : " + matiereSecondaire);
+	}
 }

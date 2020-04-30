@@ -42,4 +42,8 @@ public class Personne{
 	public void ouMeTrouver(){
 		System.out.println("  Je ne sais pas où je suis. ");
 	}
+
+	public String toString(){
+		return (" 🔷 " + nom + " " +prenom + ", "+age + " an(s)" );
+	}		
 }
