@@ -12,5 +12,12 @@ public class Execution {
 		//Création des enseignants
 		Enseignant ens = new Enseignant("Machin", "Boris", 36, "Enseignant", "Informatique", "Electronique");
 		
+		//Utilisation de la méthode ouMeTrouver()
+		System.out.print("Pour l'etudiant : ");
+		etu1.ouMeTrouver();
+		System.out.print("Pour l'administration : ");
+		admin.ouMeTrouver();
+		System.out.print("Pour l'enseignant : ");
+		ens.ouMeTrouver();
 	}
 }

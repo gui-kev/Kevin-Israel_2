@@ -9,8 +9,11 @@
 	3- Le mot clé super permet à une classe fille de : 
 		* faire appel aux méthodes de la classe mère
 		* faire appel aux variables de la classe base dans le constructeur de la classe fille.
+		Code test : https://drive.google.com/open?id=1ejZB4KXhHKwVbmiAhYQr0v2sT_CYcGrq
+		resultat : https://drive.google.com/open?id=1BzFTA_E1rmeJh0wlS5i3Y0L4r63w_Bzu
 	
 	4- Méthode afficherAge() : permet d'afficher l'age du personnel car la variable age est définie en protected dans la classe Personne.
+	Résultat : https://drive.google.com/open?id=15hmBYAgCSl9GVhjezph9F3KrrP0So7ze
 	
 	5- Droits d'accès:
 		* Private : utilisé lorsqu'une variable ou une méthode ne doit être accessible qu'à l'intérieur de la classe
@@ -24,5 +27,11 @@
 	8- Création des accesseurs et mutateurs pour chacune des classes. 
 	Comme les accesseurs et mutateus de la classe mère sont définis en public, il n'est plus nécessaire de les reécrire dans les classes filles. 
 
-### Exercice 2
+### Exercice 2 : Construction d’objets et l’initialisation d’objets
 	1- Création de la classe Execution
+
+### Exercice 3 : Redéfinition de méthodes et polymorphisme
+	1- Utilisation de la méthode ouMeTrouver()
+		Code test : https://drive.google.com/open?id=1EhR3h_govXbJyy4i4KSRU_0qDToJc6Yo
+		Résultat : https://drive.google.com/open?id=1BnmFVSP9kUDsk5QJvkZpbecHWhXJzzqw
+	
