@@ -17,4 +17,34 @@ public class Etudiant extends Personne {
 		this.promotion = promotion;
 		this.nbAbsences = nbAbsences;
 	}
+
+	public String getPromotion(){
+		return promotion;
+	}
+
+	public int getNbAbsences(){
+		return nbAbsences;
+	}
+
+	public String getNom(){
+		return nom;
+	}
+
+	public void setPromotion(String promotion){
+		this.promotion = promotion;
+	}
+
+	public void setNbAbsences(int nbAbsences){
+		this.nbAbsences= nbAbsences;
+	}
+
+	public void setNom(String nom){
+		this.nom = nom;
+	}
+
+	public void ouMeTrouver(){
+		System.out.println("  Je suis en cours tous les jours, sauf les jeudis après-midis"
+						+" (je fais du sport, mais c’est comme un cours car j’aime le sport \n");
+	}
+	
 }

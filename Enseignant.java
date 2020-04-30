@@ -23,4 +23,8 @@ public class Enseignant extends Personnel {
 	public void setMatiereSecondaire(){
 		this.matiereSecondaire = matiereSecondaire;
 	}
+
+	public void ouMeTrouver(){
+		System.out.println("  Ce n’est pas la peine de me chercher, je saurai vous trouver !");
+	}
 }

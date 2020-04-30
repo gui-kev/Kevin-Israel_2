@@ -34,4 +34,7 @@
 	1- Utilisation de la méthode ouMeTrouver()
 		Code test : https://drive.google.com/open?id=1EhR3h_govXbJyy4i4KSRU_0qDToJc6Yo
 		Résultat : https://drive.google.com/open?id=1BnmFVSP9kUDsk5QJvkZpbecHWhXJzzqw
-	
+	2- Redéfinir la méthode ouMeTrouver() afin que le texte affiché dépende du l’objet utilisé
+		Code : https://drive.google.com/open?id=1zZOnfoQ9bFu7rFqSyOT4jaX82w8uYuyd
+		Résultat : https://drive.google.com/open?id=1cV-DFhoCJZ_wfeM46lQ9SNZQdcXhaiWa
+	3- 
