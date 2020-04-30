@@ -7,4 +7,20 @@ public class Enseignant extends Personnel {
 		this.matierePrincipale = matierePrincipale;
 		this.matiereSecondaire=matiereSecondaire;
 	}
+
+	public String getMatierePrincipale(){
+		return matierePrincipale;
+	}
+
+	public String getMatiereSecondaire(){
+		return matiereSecondaire;
+	}
+
+	public void setMatierePrincipale(){
+		this.matierePrincipale = matierePrincipale;
+	}
+
+	public void setMatiereSecondaire(){
+		this.matiereSecondaire = matiereSecondaire;
+	}
 }

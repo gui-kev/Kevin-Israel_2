@@ -10,5 +10,4 @@ public class Etudiant extends Personne {
 		this.promotion = promotion;
 		this.nbAbsences = nbAbsences;
 	}
-
 }

@@ -6,4 +6,11 @@ public class Administratif extends Personnel {
 		this.fonction = fonction;
 	}
 
+	public String getFonction(){
+		return fonction;
+	}
+
+	public void setFonction(String fonction){
+		this.fonction = fonction;
+	}
 }
